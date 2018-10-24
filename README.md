@@ -1,3 +1,11 @@
+NOTE
+====
+
+This is an unofficial mirror of [ee-0.1.0.tar.gz](http://git.savannah.gnu.org/cgit/ee.git/snapshot/ee-0.1.0.tar.gz)
+
+For more information on the project, see the official site at http://www.jurta.org/en/emacs/ee
+
+The original README is reproduced below:
 
 NAME
 ====
